@@ -1,10 +1,10 @@
 # Oto_Tamir_Kayit_Sistemi
 
-•Emirhan Erdem
+•Emirhan Erdem-230260199
 
-•Emirhan Alişan
+•Emirhan Alişan-220260081
 
-•Alper Nas
+•Alper Nas-220260039
 
 Oto tamir ve kayıt sistemi,araçların bakım ve onarım süreçlerini yönetmek için geliştirilmiştir.Araç bilgileri, ruhsat bilgileri, müşteri iletişim bilgileri, tamir çeşitleri, tamir başlangıç ve bitiş tarihi, fiyatlandırma ana varlıkları oluşturur. Her araç, bakım kayıtlarıyla ilişkilidir ve kullanıcılar, araçlarının bakım geçmişini izleyebilir.Bu sistem, bakım süreçlerini optimize ederek verimlilik ve şeffaflık sağlar.Aşağıda bu varlıkların sahip olduğu nitelikler ve aralarındaki ilişkiler belirtilmiştir.
 
